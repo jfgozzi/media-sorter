@@ -1,1 +1,2 @@
 pillow==12.2.0
+hachoir-3.3.0
